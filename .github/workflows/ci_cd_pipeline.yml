@@ -24,4 +24,4 @@ on:
                    - name: Run Tests
                     run: pytest tests/ -v 
                     - name: Deploy (Simulation) 
-                    run: echo " Simulated deployment"
+                    run: echo "Simulated deployment"
